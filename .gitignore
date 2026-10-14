@@ -1,0 +1,5 @@
+config.json
+widget-state.json
+_err.log
+*.log
+.DS_Store
